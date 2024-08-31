@@ -1,5 +1,5 @@
 # Multiple RTMP outputs
-
+state: Broken
 
 # Discuss:
 - https://www.reddit.com/r/selfhosted/comments/ra3ii0/comment/hngdrz7/
